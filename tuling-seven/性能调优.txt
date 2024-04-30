@@ -1,0 +1,18 @@
+arthas
+一、jdk17 新特性
+    1、语法层次新特性
+        -"""文本快
+        -switch语法支持lambda
+        -instance of类型转换
+        -var支持
+    2、模块化及类封装
+        -记录类record
+        -隐藏类
+        -密封类
+        -模块化
+            module-info.java
+                exports
+                requires
+                provides
+                uses
+        --类加载

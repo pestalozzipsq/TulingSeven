@@ -1,3 +1,5 @@
+package com.sunfj.test;
+
 /**
  * Hello world!
  *
